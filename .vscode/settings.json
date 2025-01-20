@@ -1,0 +1,13 @@
+{
+    "python.languageServer": "Pylance",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none",
+        "reportShadowedImports": "none"
+    },
+    "python.analysis.extraPaths": [
+        "",
+        "c:\\Users\\randy\\.vscode\\extensions\\wmerkens.vscode-circuitpython-v2-0.3.1\\stubs",
+        "c:\\Users\\randy\\AppData\\Roaming\\Code\\User\\globalStorage\\wmerkens.vscode-circuitpython-v2\\bundle\\20250119\\adafruit-circuitpython-bundle-py-20250119\\lib"
+    ],
+    "circuitpython.board.version": null
+}

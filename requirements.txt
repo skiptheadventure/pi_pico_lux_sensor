@@ -1,0 +1,2 @@
+package-one @ git+https://github.com/adafruit/Adafruit_VEML7700@main
+package-two @ git+https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT@main
