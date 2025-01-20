@@ -14,6 +14,7 @@
 
 ## The OS
 Follow the instructions below to install CircuitPython.
+
 [How to Install CircuitPython on a Pi Pico W](https://learn.adafruit.com/pico-w-wifi-with-circuitpython/installing-circuitpython)
 
 ## The Code
