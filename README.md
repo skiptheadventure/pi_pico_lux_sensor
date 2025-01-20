@@ -39,4 +39,5 @@ mqtt:
       unit_of_measurement: "lx"
 ```
 Here is what it looks like as a dashboard card.
+
 <img src="./ha_dash_card_screenshot.png" alt="Home Assistant Dashboard Card showing lux value." width="300">
